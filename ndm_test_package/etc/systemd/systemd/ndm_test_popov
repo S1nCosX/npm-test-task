@@ -1,0 +1,1 @@
+[Service] ExecStart=ndm_test_package/usr/bin/ndm_test StandardOutput=journal

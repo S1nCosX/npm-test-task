@@ -1,0 +1,6 @@
+Package: NDM-test-task
+Version: 1.0
+Section: base
+Architecture: amd64
+Maintainer: Popov Andrey <andreyka_popov_2003@mail.ru>
+Description: NDM test task
